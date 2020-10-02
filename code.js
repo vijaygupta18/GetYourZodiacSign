@@ -1,4 +1,4 @@
-//
+
     function showzodiac()
 {
  var d,m,z;
