@@ -70,7 +70,7 @@
  if(d<=22 && d>=1)
  z="Leo";
  else
- z="Virgio";
+ z="Virgo";
  }
  if(m=="september")
  {
@@ -91,14 +91,14 @@
  if(d<=22 && d>=1)
  z="Scorpio";
  else
- z="Sagattarius";
+ z="Sagittarius";
  }
  if(m=="december")
  {
  if(d<=21 && d>=1)
- z="Sagattarius";
+ z="Sagittarius";
  else
- z="Capricon";
+ z="Capricorn";
  }
  document.myform.sign.value=z;
 }
